@@ -12,4 +12,4 @@ item.classList.remove('bg-preload')
 
 setTimeout(() => {
     load()
-}, 300000);
+}, 3000);
